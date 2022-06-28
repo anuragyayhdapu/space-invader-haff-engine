@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\anku\desktop\win32project1\source.cpp(1113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+  Win32Project1.vcxproj -> C:\Users\Anku\Desktop\Win32Project1\Debug\Win32Project1.exe
